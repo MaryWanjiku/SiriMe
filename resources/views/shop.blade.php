@@ -137,9 +137,9 @@
 			   	    	<h3 class="menu_head">Category Options</h3>
 			   	    	<ul class="category_nav">
 			   	    	
-					   	  	<li><a href="#">BLEACHING PRODUCTS</a></li>
-					   	  	<li><a href="#">SLIMMING PRODUCTS</a></li>
-					   	  	<li><a href="#">SKIN TIGHTENERS</a></li>
+					   	  	<li><a href="shop">BLEACHING PRODUCTS</a></li>
+					   	  	<li><a href="shop">SLIMMING PRODUCTS</a></li>
+					   	  	<li><a href="shop">SKIN TIGHTENERS</a></li>
 					   	  	
 					   	</ul>
 			   	    </div>
